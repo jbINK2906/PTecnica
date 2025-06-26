@@ -118,5 +118,6 @@ Verificar que Program.cs contenga los servicios y mapeos adecuados
 Probar desde Swagger o Postman
 
 👨‍💻 Autor
-José Rojas
+José Benito Rojas López
+Ing. Cibernetica Electronica
 Prueba técnica Backend .NET – 2025
